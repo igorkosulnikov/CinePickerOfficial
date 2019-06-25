@@ -43,3 +43,12 @@
   justify-content: center;
   margin-bottom: 30px;
 }
+
+.contact-icons-section-container {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-icon {
+  margin-right: 10px;
+}
