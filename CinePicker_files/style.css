@@ -63,7 +63,7 @@
 .title-container {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   margin-top: 10px;
 }
 
@@ -87,17 +87,6 @@
 .sub-title-caption {
   margin-left: 5px;
   color: #878787;
-}
-
-.moto-container {
-    margin-bottom: 30px;
-    padding: 10px 0px;
-    border-bottom: 1px solid grey;
-}
-
-.moto-container p {
-	margin: 0;
-	font-size: 1.7rem;
 }
 
 .feature-image {
