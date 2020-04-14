@@ -64,7 +64,10 @@
   display: flex;
   align-items: center;
   margin-bottom: 30px;
-  margin-top: 10px;
+	margin-top: 10px;
+	padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,.04), 0 4px 10px 0 rgba(13,35,67,.25);
 }
 
 .container-header {
@@ -137,11 +140,17 @@
 .description-container {
 	width: 100%;
 	margin-bottom: 20px;
+	padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,.04), 0 4px 10px 0 rgba(13,35,67,.25);
 }
 
 .privacy-container {
 	flex-direction: column;
 	margin-bottom: 20px;
+	padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,.04), 0 4px 10px 0 rgba(13,35,67,.25);
 }
 
 .privacy-container p {
